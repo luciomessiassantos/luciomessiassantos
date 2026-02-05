@@ -8,9 +8,16 @@
 
 ###
 
+<div>
+  <h1>What's up? 👋</h1>
+  <p>
+    🚀 I'm a fullstack develover, focused in creating functional and user friendly interfaces with React, while developing scalable API's using Spring Boot. 
+  </p>
+</div>
+
 <div align="center">
   
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=luciomessiassantos&show_icon=true&theme=dark)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Lucio's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=luciomessiassantos&show_icon=true&theme=dark)](https://github.com/pranesh-2005/github-readme-stats-fast)
   
 </div>
 
@@ -24,7 +31,7 @@
   <img width="32" />
   <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
   <img width="32" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img src="https://cdn.simpleicons.org/docker/2A8BC7" height="40" alt="docker logo"  />
 </div>
 
 ###
