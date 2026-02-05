@@ -2,20 +2,17 @@
   <img height="200" src="https://i.pinimg.com/736x/2b/02/65/2b02651a945816784d7c9a4d59f279b6.jpg"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luciomessiassantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+---
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Xarope">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Xarope&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+  
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=luciomessiassantos&show_icon=true&theme=dark)](https://github.com/pranesh-2005/github-readme-stats-fast)
+  
 </div>
 
+###
 ###
 
 <div align="center">
