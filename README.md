@@ -11,7 +11,7 @@
 <div>
   <h1>What's up? 👋</h1>
   <p>
-    I'm a fullstack develover, focused in creating functional and user friendly interfaces with React and Angular, while developing scalable API's using .NET Core. 🚀 
+    I'm a fullstack develover, focused in creating functional and user friendly interfaces with Next, while developing scalable API's using .NET Core. 🚀 
   </p>
 </div>
 
